@@ -1,0 +1,232 @@
+{
+    "Food": [
+        {
+            "id": 11,
+            "quantity": 2,
+            "name": "1 GÀ CUỘN BẮC KINH",
+            "price": "39.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/1-Kwaffle.jpg?v=LDqyE4",
+            "description": "01 Gà Cuộn Bắc Kinh"
+        },
+        {
+            "id": 12,
+            "quantity": 3,
+            "name": "2 GÀ CUỘN BẮC KINH",
+            "price": "74.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/2-Kwaffle.jpg?v=LDqyE4",
+            "description": "02 Gà Cuộn Bắc Kinh"
+        },
+        {
+            "id": 13,
+            "quantity": 4,
+            "name": "GÀ CUỘN BẮC KINH HD",
+            "price": "89.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/Kwaffle-hd.jpg?v=LDqyE4",
+            "description": "01 Gà Cuộn Bắc Kinh + 01 miếng Gà..."
+        },
+        {
+            "id": 14,
+            "quantity": 12,
+            "name": "2 Bánh Khoai Tây Chiên",
+            "price": "17.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/2-Hash-Browns.jpg?v=LDqyE4",
+            "description": "2 Bánh khoai tây chiên"
+        },
+        {
+            "id": 15,
+            "quantity": 4,
+            "name": "3 Bánh Khoai Tây Chiên",
+            "price": "25.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/3-Hash-Browns.jpg?v=LDqyE4",
+            "description": "3 Bánh khoai tây chiên"
+        },
+        {
+            "id": 16,
+            "quantity": 3,
+            "name": "4 Bánh Khoai Tây Chiên",
+            "price": "31.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/4-Hash-Browns.jpg?v=LDqyE4",
+            "description": "4 Bánh khoai tây chiên"
+        },
+        {
+            "id": 17,
+            "quantity": 2,
+            "name": "6 Bánh Khoai Tây Chiên",
+            "price": "46.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/6-Hash-Browns.jpg?v=LDqyE4",
+            "description": "6 Bánh khoai tây chiên"
+        }
+    ],
+    "Combo1":[
+        {
+            "id": 21,
+            "quantity": 5,
+            "name": "Combo Gà Rán",
+            "price": "87.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/D1-new.jpg?v=LDqyE4",
+            "description": "2 Miếng Gà +1 Khoai tây chiên vừa / 2 Gà Miếng Nuggets + 1 Lipton vừa"
+        },
+        {
+            "id": 22,
+            "quantity": 6,
+            "name": "Combo Mì Ý",
+            "price": "87.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/D3-new.jpg?v=LDqyE4",
+            "description": "1 Mì Ý Xốt Cà Gà Viên + 1 Miếng Gà+ 1 Lon Pepsi Can"
+        },
+        {
+            "id": 23,
+            "quantity": 3,
+            "name": "Combo Salad Hạt",
+            "price": "78.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/D4-new.jpg?v=LDqyE4",
+            "description": "1 Miếng Gà + 1 Salad Hạt + 1 Lon Pepsi"
+        },
+        {
+            "id": 24,
+            "quantity": 9,
+            "name": "Combo Burger",
+            "price": "89.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/D5.jpg?v=LDqyE4",
+            "description": "1 Burger Zinger/Burger Gà Quay Flava/Burger Tôm + 1 Miếng Gà Rán + 1 Lon Pepsi"
+        }
+    ],
+    "Dessert":[
+        {
+            "id": 31,
+            "quantity": 12,
+            "name": "1 BÁNH TRỨNG",
+            "price": "18.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/1-eggtart.jpg?v=LDqyE4",
+            "description": "1 Bánh Trứng"
+        },
+        {   
+            "id": 32,
+            "quantity": 3,
+            "name": "4 BÁNH TRỨNG",
+            "price": "58.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/4-eggtart.jpg?v=LDqyE4",
+            "description": "4 Bánh Trứng"
+        },
+        {
+            "id": 33,
+            "quantity": 12,
+            "name": "2 VIÊN KHOAI MÔN KIM SA",
+            "price": "26.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/2-taro.jpg?v=LDqyE4",
+            "description": "2 Viên Khoai Môn Kim Sa"
+        },
+        {
+            "id": 34,
+            "quantity": 4,
+            "name": "3 VIÊN KHOAI MÔN KIM SA",
+            "price": "34.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/3-taro.jpg?v=LDqyE4",
+            "description": "3 Viên Khoai Môn Kim Sa"
+        },
+        {
+            "id": 35,
+            "quantity": 2,
+            "name": "5 VIÊN KHOAI MÔN KIM SA",
+            "price": "54.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/5-taro.jpg?v=LDqyE4",
+            "description": "5 Viên Khoai Môn Kim Sa"
+        },
+        {
+            "id": 36,
+            "quantity": 6,
+            "name": "2 THANH BÍ PHÔ MAI",
+            "price": "28.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/2-Pumcheese.jpg?v=LDqyE4",
+            "description": "2 Thanh Bí Phô Mai"
+        },
+        {
+            "id": 37,
+            "quantity": 2,
+            "name": "3 THANH BÍ PHÔ MAI",
+            "price": "38.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/3-Pumcheese.jpg?v=LDqyE4",
+            "description": "3 Thanh Bí Phô Mai"
+        },
+        {
+            "id": 38,
+            "quantity": 1,
+            "name": "5 THANH BÍ PHÔ MAI",
+            "price": "58.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/5-Pumcheese.jpg?v=LDqyE4",
+            "description": "5 Thanh Bí Phô Mai"
+        },
+        {
+            "id": 39,
+            "quantity": 5,
+            "name": "Pepsi Lon",
+            "price": "17.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/Pepsi-Can.jpg?v=LDqyE4",
+            "description": "Pepsi Lon"
+        },
+        {
+            "id": 310,
+            "quantity": 5,
+            "name": "7Up Lon",
+            "price": "17.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/7Up-Can.jpg?v=LDqyE4",
+            "description": "7Up Lon"
+        },
+        {
+            "id": 311,
+            "quantity": 5,
+            "name": "Aquafina 500ml",
+            "price": "15.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/Aquafina-500ml.jpg?v=LDqyE4",
+            "description": "Aquafina 500ml"
+        },
+        {
+            "id": 312,
+            "quantity": 5,
+            "name": "Trà Đào",
+            "price": "24.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/Peach-Tea.jpg?v=LDqyE4",
+            "description": "Trà Đào"
+        },
+        {
+            "id": 313,
+            "quantity": 5,
+            "name": "Pepsi Black Lime Lon",
+            "price": "17.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/pepsi-lime-can.jpg?v=LDqyE5",
+            "description": "Pepsi Black Lime Lon"
+        },
+        {
+            "id": 314,
+            "quantity": 5,
+            "name": "Milo Hộp",
+            "price": "20.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/milo-box-hd.jpg?v=LDqyE4",
+            "description": "Milo Hộp"
+        },
+        {
+            "id": 315,
+            "quantity": 5,
+            "name": "Mirinda Cam Lon",
+            "price": "17.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/Mirinda-Orange-Can.jpg?v=LDqyE4",
+            "description": "Mirinda Cam Lon"
+        },
+        {
+            "id": 316,
+            "quantity": 5,
+            "name": "Trà Chanh Lipton (Lớn)",
+            "price": "17.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/Lipton.jpg?v=LDqyE4",
+            "description": "Trà Chanh Lipton (Lớn)"
+        },
+        {
+            "id": 317,
+            "quantity": 5,
+            "name": "Trà Chanh Lipton (Vừa)",
+            "price": "10.000₫",
+            "imgUrl": "https://static.kfcvietnam.com.vn/images/items/lg/Lipton.jpg?v=LDqyE4",
+            "description": "Trà Chanh Lipton (Vừa)"
+        }
+    ]
+}
